@@ -1,39 +1,125 @@
-# Hi, I'm Siddhant 👋
+# Hi, I'm Siddhant Shardul 👋
+
+### 💻 Aspiring Software Developer | BCS Graduate | FY MCA Student
+
+📍 Nashik, Maharashtra, India
 
 ## 🚀 About Me
 
-* BCS student focused on becoming a **full-stack web developer**
-* Building real-world applications using modern technologies
-* Strong interest in **problem-solving and scalable web systems**
+* 🎓 BCS Graduate, currently pursuing **First Year MCA**.
+* 💻 Interested in **Full Stack Development, Java Development, and Software Engineering**.
+* 🚀 Building practical applications using modern web technologies.
+* 🧩 Learning through hands-on projects and continuously improving my programming skills.
+* 🤖 Using AI-assisted tools as a learning aid while strengthening my independent coding and debugging abilities.
+* 🎯 Looking for an opportunity to start my professional journey in the IT industry.
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Skills
 
-* **Languages:** Java, JavaScript, TypeScript
-* **Frontend:** React, Next.js, Tailwind CSS
-* **Backend:** Supabase (Auth, Realtime APIs)
-* **Database:** PostgreSQL
-* **Tools:** Git, GitHub, Vercel
+**Languages**
+
+* Java
+* JavaScript
+* TypeScript
+
+**Frontend Development**
+
+* HTML
+* CSS
+* React.js
+* Next.js
+* Tailwind CSS
+
+**Backend Development**
+
+* Java Spring Boot
+* Supabase
+* Authentication & Realtime APIs
+
+**Database**
+
+* PostgreSQL
+
+**Tools & Platforms**
+
+* Git
+* GitHub
+* Postman
+* Vercel
 
 ## 📌 Projects
 
-### 🛒 College Marketplace
+### 🛒 1. College Marketplace
 
-A full-stack platform for students to buy and sell products within their college
+🔗 [View Repository](https://github.com/siddhant-shardul/college-marketplace)
 
-* Built with Next.js, TypeScript, Supabase
-* Features: authentication, product listings, real-time chat
-* Deployed on Vercel
+A full-stack marketplace application designed to help college students buy and sell products within their college community.
+
+**Technologies:**
+
+* Next.js
+* TypeScript
+* Supabase
+
+**Features:**
+
+* User authentication
+* Product listings
+* Real-time chat
+* Image uploads
+
+🌐 Deployed on Vercel.
+
+### 📋 2. Job Application Tracker
+
+🔗 [View Repository](https://github.com/siddhant-shardul/job-application-tracker)
+
+A full-stack application focused on helping users organize and track their job applications.
+
+**Technologies:**
+
+* Java
+* Spring Boot
+* React.js
+* PostgreSQL
+* Postman
+
+**Learning Focus:**
+
+* Backend development with Spring Boot
+* Frontend and backend integration
+* Database management
+* REST API development
+
+*Project status: In development.*
 
 ## 🎯 Current Focus
 
-* Data Structures & Algorithms (Java)
-* Full-stack development with Next.js
-* Building production-ready projects
+* Strengthening Java programming fundamentals.
+* Learning Data Structures and Algorithms (DSA).
+* Improving React.js and Next.js development.
+* Learning backend development with Spring Boot.
+* Practising SQL and PostgreSQL.
+* Improving independent coding, debugging and problem-solving.
+* Building and improving practical software projects.
 
-## 📈 Goals
+## 📈 Career Goals
 
-* Improve system design fundamentals
-* Contribute to open-source
-* Land a software development internship
+* Start my professional career in the IT industry.
+* Secure a Software Developer Internship or Developer Trainee position.
+* Gain practical experience working on real-world applications.
+* Improve my software development and problem-solving skills.
+* Grow into a skilled Full Stack Software Developer.
 
+## 🤝 Open to Opportunities
 
+I am interested in:
+
+* Java Developer Intern / Trainee
+* React Developer Intern
+* Full Stack Developer Intern
+* Junior Software Developer
+* Software Developer Trainee
+
+---
+
+⭐ *Learning, building, improving, and growing one project at a time.*
